@@ -1,0 +1,11 @@
+Package: Investments
+Title: Investment Problems
+Version: 0.0.0.9000
+Authors@R: person("Last", "First", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Just some easy calculations for my investments class. I will add more as time goes.
+Depends:
+    R (>= 3.3.1)
+License:  GNU GENERAL PUBLIC LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
