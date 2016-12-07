@@ -1,2 +1,2 @@
 # Investments
-Investments calculations
+Investments calculations with R
